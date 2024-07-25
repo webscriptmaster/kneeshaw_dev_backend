@@ -1,0 +1,25 @@
+{
+  "cSpell.words": [
+    "codepaths",
+    "fieldname",
+    "gameplay",
+    "godots",
+    "kneeshaw",
+    "kneeshawdev",
+    "oldsalt",
+    "OPENAI",
+    "Parens",
+    "titansaga",
+    "tsbuildinfo"
+  ],
+  "prettier.configPath": ".prettierrc.json",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.format": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.tabSize": 2
+}
